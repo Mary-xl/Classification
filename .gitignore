@@ -1,0 +1,7 @@
+backup/*
+Dataset/*
+__pycache__/
+.idea*
+*.xml
+
+
